@@ -17,7 +17,7 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 import youTube.util.*;
 
 public class HomePage_YT extends Property_reader {
-	WebDriver driver;
+	//WebDriver driver;
 	//public Properties obj;
 	@BeforeClass (groups = "Smoke")
 	@Parameters("Browser")
